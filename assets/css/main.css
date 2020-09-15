@@ -325,7 +325,9 @@ input, select, textarea {
 /* Row */
 
 	#CV{
-		margin: 4rem 0;
+		width:50%;
+		margin: auto;
+		border:3px,solid green;
 	}
 	.row {
 		display: flex;
